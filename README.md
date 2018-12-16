@@ -18,8 +18,8 @@ v1.0 - Working, stable app.
 
 ## Authors
 
-* **Trinh Tong** - ** - (https://github.com/trtong)
-* **Wes Doyle** - ** - (https://www.youtube.com/watch?v=pKCAtlsn1Eo)
+* **Trinh Tong**  - (https://github.com/trtong)
+* **Wes Doyle** [Tutorial] - (https://www.youtube.com/watch?v=pKCAtlsn1Eo)
 
 <!-- ## Acknowledgments
 
